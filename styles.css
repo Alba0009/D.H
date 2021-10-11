@@ -1,0 +1,252 @@
+body {
+  margin: 0;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+.Top-container {
+  background-image: url('../images/Moon.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  height: 44rem;
+  text-align: center;
+  font-family: serif;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 300px;
+  color: white;
+  font-size: 10rem;
+}
+
+h2 {
+  font-size: 30px;
+  color: #091B4A;
+  font-family: 'Merriweather', serif;
+  font-weight: lighter;
+  text-align: center;
+
+
+}
+
+h3 {
+  color:#091B4A;
+}
+
+hr {
+  border: dotted 10px;
+  border-bottom: none;
+  width: 5%;
+  color: #CDE7F4;
+  margin-bottom: 80px;
+  margin-top: 80px;
+}
+
+/*skill*/
+.Skill1 {
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.Skill2 {
+width: 50%;
+margin: 100px auto;
+text-align: right;
+line-height: 2;
+}
+
+.Skill3 {
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.Skill4 {
+width: 50%;
+margin: 100px auto;
+text-align: right;
+line-height: 2;
+}
+
+.Skill5 {
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.Skill6 {
+width: 50%;
+margin: 100px auto;
+text-align: right;
+line-height: 2;
+}
+
+.Skill7 {
+width: 50%;
+margin: 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.Skill8 {
+width: 50%;
+margin: 100px auto;
+text-align: right;
+line-height: 2;
+}
+
+
+
+.pronesi {
+  display: inline;
+  font-size: 30px;
+  line-height: 15px;
+  color: white;
+}
+
+.dab {
+  border-radius: 50%;
+  width: 150px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.love {
+  border-radius: 50%;
+  width: 150px;
+  float: left;
+  position: relative;
+  right: 40px;
+}
+
+.sushi {
+  border-radius: 50%;
+  width: 150px;
+  float: right;
+  position:relative;
+  left: 40px;
+  }
+
+  .muzik {
+    border-radius: 50%;
+    width: 150px;
+    float: left;
+    position: relative;
+    right: 40px;
+  }
+
+  .gjum {
+    border-radius: 50%;
+    width: 150px;
+    float: right;
+    position:relative;
+    left: 40px;
+
+  }
+
+  .kontroll {
+    border-radius: 50%;
+    width: 150px;
+    float: left;
+    position: relative;
+    right: 40px;
+  }
+
+  .home {
+    border-radius: 50%;
+    width: 150px;
+    float: right;
+    position:relative;
+    left: 40px;
+
+  }
+
+  .erret {
+    border-radius: 50%;
+    width: 150px;
+    float: left;
+    position: relative;
+    right: 40px;
+  }
+
+  .zemer {
+      border-radius: 50%;
+      width: 150px;
+      float: right;
+      position:relative;
+      left: 40px;
+
+  }
+
+
+
+
+
+
+
+
+  .touch {
+    margin-bottom: 70px;
+  }
+
+  .lastp {
+    margin-bottom: 80px;
+  }
+
+
+.Bottom-container {
+  background-color: #091B4A;
+  padding: 2rem;
+  position: relative;
+  margin-top: 80px;
+}
+
+
+a {
+  color: #2F56B4;
+  padding: 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #CDE7F4;
+}
+
+.DH {
+  color: #CDE7F4;
+  position: relative;
+}
+
+.btn {
+  background: #2F56B4;
+  background-image: -webkit-linear-gradient(top, #2F56B4, #091B4A);
+  background-image: -moz-linear-gradient(top, #2F56B4, #091B4A);
+  background-image: -ms-linear-gradient(top, #2F56B4, #091B4A);
+  background-image: -o-linear-gradient(top, #2F56B4, #091B4A);
+  background-image: linear-gradient(to bottom, #2F56B4, #091B4A);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #CDE7F4;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2F56B4;
+  background-image: -webkit-linear-gradient(top, #2F56B4, #2F56B4);
+  background-image: -moz-linear-gradient(top, #2F56B4, #2F56B4);
+  background-image: -ms-linear-gradient(top, #2F56B4, #2F56B4);
+  background-image: -o-linear-gradient(top, #2F56B4, #2F56B4);
+  background-image: linear-gradient( bottom, #2F56B4, #2F56B4);
+  text-decoration: none;
+}
